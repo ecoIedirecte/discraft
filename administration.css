@@ -251,7 +251,6 @@ transition: .3s ease;
 
 #Admin{
     margin-top: 90px;
-    background-color: black;
     width: 100%;
     height: 140px;
 }
@@ -272,7 +271,6 @@ transition: .3s ease;
 
 #Adminsub{
     margin-top: 100px;
-    background-color: black;
     width: 100%;
     height: 40px;
 }
